@@ -1,16 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>DOKUMEN CV</title>
 </head>
 <body>
   <header>
     <img src="ghiya.png" alt="Gambar_saya" width="150">
     <h1>Ghiyadhika Nurhanda Putri</h1>
-    <p class="desc">082124986224 | Kp. Panjang Bojonggede, Kab. Bogor</p>
-    <span class="gmail">ghiya.dhika28@gmail.com</span>
+    <p>082124986224 | Kp. Panjang Bojonggede, Kab. Bogor</p>
+    <span>ghiya.dhika28@gmail.com</span>
     <hr>
   </header>
 
